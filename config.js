@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Babe à!',
-    introDesc: `Anh đọc hết
+    introDesc: ` Anh đọc hết
     “Mười vạn câu hỏi vì sao”
    những vẫn không hiểu được vì sao
     Đem thích Em nhiều thế.`,
