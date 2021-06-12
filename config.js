@@ -3,7 +3,7 @@ const CONFIG = {
     introDesc: ` Anh đọc hết
     “Mười vạn câu hỏi vì sao”
    những vẫn không hiểu được vì sao
-    Đem thích Em nhiều thế.`,
+    Đem Lòng thích Em nhiều thế.`,
     btnIntro: 'hihi',
     title: 'Phải chăng Anh đã yêu Em ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã Chuốc say ngay từ lúc thấy nụ cười ấy ',
