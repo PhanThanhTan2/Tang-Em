@@ -8,23 +8,23 @@ Liên lạc:
 Mở file config.js sửa nội dung theo mẫu
 ```
 const CONFIG = {
+   const CONFIG = {
     introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `Anh đọc hết
+    “Mười vạn câu hỏi vì sao”
+   những vẫn không hiểu được vì sao
+    Đem thích Em nhiều thế.`,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
+    title: 'Phải chăng Anh đã yêu Em ngay từ cái nhìn đầu tiên 😙',
+    desc: 'Phải chăng em đã Chuốc say ngay từ lúc thấy nụ cười ấy ',
+    btnYes: 'Thật <33',
+    btnNo: 'Không, Anh trai à Tân :3',
+    question:' Anh Thắc Mắc thế giới Có hơn 7 tỉ Mà sao người anh thích lại Là em  <3',
     btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
+    reply: 'Thật Ra thì Em cũng thích anh từ lâu rồi Anh Tân à <33333333',
+    mess: 'Anh biết mà 🥰. Anh Cũng Yêu Em 😘😘',
     messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://m.me/100046803243059' //link mess của các bạn. VD: https://m.me/100046803243059
 }
-```
 
