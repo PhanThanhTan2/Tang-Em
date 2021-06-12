@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Bae à!',
-    introDesc: ` Ngay anh gặp em thì 
+    introDesc: ` Khi Lần Đầu anh gặp em thì 
     anh mới phát hiện ra thiên thần
     là có thật chứ không phải nó chỉ có trong truyện cổ tích 
     mà bà hay kể,
