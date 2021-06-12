@@ -17,3 +17,4 @@ const CONFIG = {
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://m.me/100046803243059' //link mess của các bạn. VD: https://m.me/100046803243059
 }
+```
