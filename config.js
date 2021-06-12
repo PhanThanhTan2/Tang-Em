@@ -11,10 +11,9 @@ const CONFIG = {
     btnNo: 'Không, Anh trai à Tân :3',
     question:' Anh Thắc Mắc thế giới Có hơn 7 tỉ Mà sao người anh thích lại Là em  <3',
     btnReply: 'Gửi cho anh <3',
-    reply: 'Thật Ra thì Em cũng thích anh từ lâu rồi Anh Tân à <33333333',
+    reply: 'Thật Ra thì Em cũng thích anh từ lâu rồi Anh Tân à ><',
     mess: 'Anh biết mà 🥰. Anh Cũng Yêu Em 😘😘',
     messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://m.me/100046803243059' //link mess của các bạn. VD: https://m.me/100046803243059
 }
-```
